@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417273213546",
+    "firebase_url": "https://isiapp-c7735.firebaseio.com",
+    "project_id": "isiapp-c7735",
+    "storage_bucket": "isiapp-c7735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417273213546:android:c5dd6c5d6d5cc3e5",
+        "android_client_info": {
+          "package_name": "com.monisi.jeff.monisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417273213546-c035fl4tk1bqj500oubgjjb2kgr9aqj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monisi.jeff.monisi",
+            "certificate_hash": "3d9c8b027abc0aaa1e3fce3839ea3ead72aba1a6"
+          }
+        },
+        {
+          "client_id": "417273213546-c33gs0k7d95kss4biajkh2ema26b3i6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_I2SQhmMjdJp94SlaKV26xuAjVcaMLMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417273213546-c33gs0k7d95kss4biajkh2ema26b3i6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
